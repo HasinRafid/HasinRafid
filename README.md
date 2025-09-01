@@ -1,8 +1,9 @@
 ## Hi there 👋
+# I am a Front-end developer.
 
 
-# 💫 About Me:
-🔭 I’m currently working on Upwork.<br>👯 I’m looking to collaborate on Github or Discord.<br>🌱 I’m currently learning advance React.<br>💬 Ask me about anything about Front-end web development.<br>⚡ Fun fact, AI may not replace us. At least not now.
+## 💫 About Me:
+🔭 I’m currently working on Upwork.<br>👯 I’m looking to collaborate on Github and Discord.<br>🌱 I’m currently learning advance React and more front-end stuff.<br>💬 Ask me about anything about Front-end web development.<br>⚡ Fun fact, AI may not replace us. At least not now...😁
 
 
 ## 🌐 Socials:
@@ -10,7 +11,7 @@
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=HasinRafid&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=HasinRafid&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HasinRafid&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
