@@ -3,7 +3,7 @@
 
 
 ## 💫 About Me:
-🔭 I’m currently working on Upwork.<br>👯 I’m looking to collaborate on Github and Discord.<br>🌱 I’m currently learning advance React and more front-end stuff.<br>💬 Ask me about anything about Front-end web development.<br>⚡ Fun fact, AI may not replace us. At least not now...😁
+🔭 I’m currently working on Upwork.<br>👯 I’m looking to collaborate on Github, Discord or Upwork.<br>🌱 I’m currently learning advance React and more front-end stuff.<br>💬 Ask me about anything about Front-end web development.<br>⚡ Fun fact, AI may not replace us. At least not now...😁<br>🎀 I also use Photoshop and Illustrator to do basic design for web dev.
 
 
 ## 🌐 Socials:
@@ -14,11 +14,10 @@
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=HasinRafid&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=HasinRafid&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HasinRafid&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=HasinRafid&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
