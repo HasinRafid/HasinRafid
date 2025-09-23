@@ -3,7 +3,7 @@
 
 
 ## 💫 About Me:
-🔭 I’m currently working on Upwork.<br>👯 I’m looking to collaborate on Github, Discord or Upwork.<br>🌱 I’m currently learning advance React and more front-end stuff.<br>💬 Ask me about anything about Front-end web development.<br>⚡ Fun fact, AI may not replace us. At least not now...😁<br>🎀 I also use Photoshop and Illustrator to do basic design for web dev.
+👯 I’m looking to collaborate on Github, Discord or any online platform.<br>🌱 I’m currently learning advance React and more front-end stuff.<br>💬 Ask me about anything about Front-end web development.<br>⚡ Fun fact, AI may not replace us. At least not now...😁<br>🎀 I also use Photoshop and Illustrator to do basic design for web dev.
 
 
 ## 🌐 Socials:
